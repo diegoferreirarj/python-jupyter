@@ -11,3 +11,27 @@
 ```console
 $ pkg install git
 ```
+
+### Clonar repositório
+
+```console
+$ git clone <Este Repositório>
+```
+
+### Instalar Python e dependências do Jupyter
+
+```console
+$ pkg install python libzmq clang fftw libzmq freetype libpng pkg-config libcrypt
+```
+
+### Instalar Jupyter
+
+```console
+$ pip install jupyter
+```
+
+### Rodando Jupyter
+
+```console
+$ jupyter notebook
+```
